@@ -1,18 +1,15 @@
 # Supermarket-management-system
 
+# Background
+
+In the previous times, superstore management was a hectic job as everything was done by hand on paper. It was difficult to keep track of things such as stock. It was inefficient and lacked precision as it was prone to manmade error. With the advent of technology, such problems were also solved as this process was fully automated using management system.
+
 
 Superstore management system provides automation in handling superstores. This includes information about different available products, employees at the store, inventory etc. This system provides an efficient and reliable way to handle superstores
 
 
-
-
-
-
 ![Main GUI](https://user-images.githubusercontent.com/93051673/157383106-a3ee353f-0ffc-446b-b137-17fcec640291.png)
 
-# Background
-
-In the previous times, superstore management was a hectic job as everything was done by hand on paper. It was difficult to keep track of things such as stock. It was inefficient and lacked precision as it was prone to manmade error. With the advent of technology, such problems were also solved as this process was fully automated using management system.
 
 # Back-end code
 
