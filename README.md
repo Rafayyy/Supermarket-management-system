@@ -10,6 +10,10 @@ Superstore management system provides automation in handling superstores. This i
 
 ![Main GUI](https://user-images.githubusercontent.com/93051673/157383106-a3ee353f-0ffc-446b-b137-17fcec640291.png)
 
+# Background
+
+In the previous times, superstore management was a hectic job as everything was done by hand on paper. It was difficult to keep track of things such as stock. It was inefficient and lacked precision as it was prone to manmade error. With the advent of technology, such problems were also solved as this process was fully automated using management system.
+
 # Back-end code
 
 ![1st code](https://user-images.githubusercontent.com/93051673/157383992-a7b40651-7ab0-41de-99c6-aa785edc3a8e.png)
