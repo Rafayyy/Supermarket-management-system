@@ -17,3 +17,9 @@ Superstore management system provides automation in handling superstores. This i
 ![3rd code](https://user-images.githubusercontent.com/93051673/157384015-a292dc5e-1905-4024-9faf-5778da85493f.png)
 ![4th code](https://user-images.githubusercontent.com/93051673/157384018-90df26f3-17bd-4905-a384-bd0c78b0ce14.png)
 ![5th code](https://user-images.githubusercontent.com/93051673/157384023-e5cbfa5e-81e6-42d0-a113-b973a680c17e.png)
+
+# Front-end code
+
+![main gui 1](https://user-images.githubusercontent.com/93051673/157385066-5fd0f837-d362-470d-a510-81e1455b8a0e.PNG)
+![main gui 2](https://user-images.githubusercontent.com/93051673/157385075-f391e60c-966c-4837-9b45-cbb8d4d83f99.PNG)
+![main gui 3](https://user-images.githubusercontent.com/93051673/157385084-a66c008b-1ece-403d-937f-e0fe1db70c33.PNG)
